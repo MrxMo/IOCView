@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/moguangjian/android/workspace/modong_studio/IOCView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/moguangjian/android/workspace/modong_studio/IOCView/app/build/intermediates/pre-dexed/debug/classes-12466eb43024d4e9a3892a86bd6981042b82ea0f.jar" />
+    </item>
+    <item
+        jar="/Users/moguangjian/android/software/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/moguangjian/android/workspace/modong_studio/IOCView/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-dfa8e7ed41266a56ff94cfa886c02a729a67862c.jar" />
+    </item>
+    <item
+        jar="/Users/moguangjian/android/workspace/modong_studio/IOCView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/moguangjian/android/workspace/modong_studio/IOCView/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-9ecf55dd4383ffd93358d894bc87d99f98e56ee5.jar" />
+    </item>
+    <item
+        jar="/Users/moguangjian/android/workspace/modong_studio/IOCView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/moguangjian/android/workspace/modong_studio/IOCView/app/build/intermediates/pre-dexed/debug/classes-93d1f834d9773b9622d92f91f65b5ef9ea32c749.jar" />
+    </item>
+
+</items>
